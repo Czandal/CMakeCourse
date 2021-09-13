@@ -36,5 +36,6 @@ target_link_directories(${PROJECT_NAME}
  PUBLIC ${EXTRA_LINKS}
  )
 
-
+install(TARGETS ${PROJECT_NAME} DESTINATION bin)
+install(FILES "${PROJECT_BINARY_DIR}/Machine1.conf" DESTINATION include)
 
