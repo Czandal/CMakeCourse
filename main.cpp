@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Machine1conf.h"
+#include <Machine1conf.h>
 #include "Function.hpp"
 int main(int argc, char**argv)
 {
