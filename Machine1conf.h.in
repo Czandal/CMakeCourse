@@ -1,0 +1,2 @@
+#define Machine1_VERSION_MAJOR @Machine1_VERSION_MAJOR@
+#define Machine1_VERSION_MINOR @Machine1_VERSION_MINOR@
